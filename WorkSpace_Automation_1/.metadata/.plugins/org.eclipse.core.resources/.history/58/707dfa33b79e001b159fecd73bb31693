@@ -1,0 +1,47 @@
+package snippet;
+
+public class Snippet {
+	Body:			<none>
+	Request method:	GET
+	Request URI:	https://rahulshettyacademy.com/getCourse.php?access_token=ya29.a0AfH6SMBNcUwHqZ0nGvxViuj9f7pqvz6VLlT7c313Wb79WqjwCxaTwnOqGHGYVMfktC9F-E_30wBS9kX1nuii9_Hla_uQFZy3b45m5JnDTImgJcSofLJhdKXSXhJ6UeWkAbHyBJ3nb0Q_hyTNeUGEjE_zmbQV
+	Proxy:			<none>
+	Request params:	<none>
+	Query params:	access_token=ya29.a0AfH6SMBNcUwHqZ0nGvxViuj9f7pqvz6VLlT7c313Wb79WqjwCxaTwnOqGHGYVMfktC9F-E_30wBS9kX1nuii9_Hla_uQFZy3b45m5JnDTImgJcSofLJhdKXSXhJ6UeWkAbHyBJ3nb0Q_hyTNeUGEjE_zmbQV
+	Form params:	<none>
+	Path params:	<none>
+	Headers:		Accept=*/*
+	Cookies:		<none>
+	Multiparts:		<none>
+	Body:			<none>
+	
+	{ "instructor": "RahulShetty", "url": "rahulshettycademy.com", "services": "projectSupport", "expertise": "Automation", "courses": { "webAutomation": [ { "courseTitle": "Selenium Webdriver Java", "price": "50" }, { "courseTitle": "Cypress",
+	                "price": "40"
+	            },
+	            {
+	                "courseTitle": "Protractor",
+	                "price": "40"
+	            }
+	        ],
+	        "api": [
+	            {
+	                "courseTitle": "Rest Assured Automation using Java",
+	                "price": "50"
+	            },
+	            {
+	                "courseTitle": "SoapUI Webservices testing",
+	                "price": "40"
+	            }
+	        ],
+	        "mobile": [
+	            {
+	                "courseTitle": "Appium-Mobile Automation using Java",
+	                "price": "50"
+	            }
+	        ]
+	    },
+	    "linkedIn": "https://www.linkedin.com/in/rahul-shetty-trainer/"
+	}
+	
+	
+}
+

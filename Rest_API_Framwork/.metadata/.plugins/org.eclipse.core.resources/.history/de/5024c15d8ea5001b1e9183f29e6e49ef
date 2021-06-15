@@ -1,0 +1,17 @@
+import java.io.FileInputStream;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class DataDriven {
+
+	public static void main(String[] args) {
+		
+		//Use file input stream argument
+		FileInputStream fis = new FileInputStream("E:\\Sahil\\Engineering\\Testing_Courses\\Rest_API\\DataTest.xlsx")
+		
+		XSSFWorkbook workbook = new XSSFWorkbook();
+	
+
+	}
+
+}

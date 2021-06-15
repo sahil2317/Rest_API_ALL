@@ -1,0 +1,12 @@
+package com.pojoclass;
+
+public class GetCourse {
+	
+	private String instructor;
+	private String  url;
+	private String services;
+	private String  expertise;
+	private String courses;
+	private String linkedIn;
+
+}
